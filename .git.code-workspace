@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "db"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "log"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "storage"
+		},
+		{
+			"path": "test"
+		},
+		{
+			"path": "tmp"
+		},
+		{
+			"path": "vendor"
+		},
+		{
+			"path": "individual_files"
+		}
+	]
+}
